@@ -22,4 +22,8 @@ Status: In Progress
 
 ### SOC Dashboard Development
 
+Status: Planned
+
 ### Attack Simulation & Threat Hunting
+
+Status: Planned
