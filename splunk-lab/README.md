@@ -14,7 +14,11 @@ A dedicated SIEM environment used to develop skills in:
 
 ### Splunk SIEM Deployment and Endpoint Telemetry Analysis
 
-Status: Complete
+Built a Splunk Enterprise SIEM environment using Ubuntu Server, Windows 10, Sysmon, and the Splunk Universal Forwarder.
+
+**Status:** Complete
+
+[View Project](./splunk-siem-deployment-and-endpoint-telemetry-analysis)
 
 ### Detection Engineering & Alert Validation
 
