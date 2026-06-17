@@ -1,6 +1,6 @@
 # Cybersecurity Homelab
 
-This repository serves as a central location for my evolving cybersecurity homelab featuring documented projects, technical writeups, and hands-on cybersecurity learning. The goal is to develop practical skills in security operations, detection engineering, threat hunting, system administration, and defensive security.
+This repository serves as a central location for my evolving cybersecurity homelab featuring documented labs, projects, technical writeups, and hands-on cybersecurity learning. The goal is to develop practical skills in security operations, detection engineering, threat hunting, system administration, and defensive security.
 
 ## Current Labs
 
