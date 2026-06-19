@@ -38,4 +38,4 @@ Built a SOC dashboard in Splunk to visualize endpoint telemetry, process executi
 
 ### Attack Simulation & Threat Hunting
 
-Status: Planned
+**Status:** In Progress
