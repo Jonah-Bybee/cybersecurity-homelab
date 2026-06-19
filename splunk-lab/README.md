@@ -1,4 +1,4 @@
-# Splunk Lab(./splunk-lab)
+# Splunk Lab
 
 A dedicated SIEM environment used to develop skills in:
 
