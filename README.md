@@ -4,7 +4,7 @@ This repository serves as a central location for my evolving cybersecurity homel
 
 ## Current Labs
 
-### Splunk Lab(./splunk-lab)
+### [Splunk Lab](./splunk-lab)
 
 A dedicated SIEM environment used to develop skills in:
 
