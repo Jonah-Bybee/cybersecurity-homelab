@@ -6,7 +6,7 @@ This repository serves as a central location for my evolving cybersecurity homel
 
 ### Splunk Lab
 
-[View Here](./splunk-lab)
+[View Lab](./splunk-lab)
 
 A dedicated SIEM environment used to develop skills in:
 
@@ -18,7 +18,7 @@ A dedicated SIEM environment used to develop skills in:
 - Threat hunting
 - Attack simulation
 
-Status: Active Development
+**Status:** Active Development
 
 ## Planned Lab Expansions
 
