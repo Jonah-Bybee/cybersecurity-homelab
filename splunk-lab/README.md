@@ -30,7 +30,9 @@ Developed and validated custom Splunk detections and alerts using Sysmon and Win
 
 ### SOC Dashboard Development
 
-Status: Planned
+**Status:** Complete
+
+[View Project](./soc-dashboard-development)
 
 ### Attack Simulation & Threat Hunting
 
