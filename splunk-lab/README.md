@@ -30,6 +30,8 @@ Developed and validated custom Splunk detections and alerts using Sysmon and Win
 
 ### SOC Dashboard Development
 
+Built a SOC dashboard in Splunk to visualize endpoint telemetry, process execution, authentication activity, log source distribution, and detection performance. Tuned dashboard visualizations to reduce noise and improve analyst visibility into security-relevant events.
+
 **Status:** Complete
 
 [View Project](./soc-dashboard-development)
