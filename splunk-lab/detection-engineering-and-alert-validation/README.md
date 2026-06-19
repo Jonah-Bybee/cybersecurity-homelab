@@ -18,7 +18,7 @@ The objective of this phase was to gain hands-on experience with detection engin
 
 ### Triggered Alerts Overview
 
-![Triggered Alerts Overview](screenshots/triggered-alerts-overview.png)
+![Triggered Alerts Overview](images/triggered-alerts-overview.png)
 
 ---
 
@@ -49,7 +49,7 @@ powershell -enc aGVsbG8=
 
 Successfully detected encoded PowerShell execution and triggered the corresponding alert.
 
-![Encoded PowerShell Detection](screenshots/encoded-powershell-detection.png)
+![Encoded PowerShell Detection](images/encoded-powershell-detection.png)
 
 ---
 
@@ -80,7 +80,7 @@ powershell.exe -NoProfile -Command "Invoke-WebRequest https://github.com"
 
 Successfully detected PowerShell web request activity and triggered the corresponding alert.
 
-![PowerShell Web Request Detection](screenshots/powershell-web-request-detection.png)
+![PowerShell Web Request Detection](images/powershell-web-request-detection.png)
 
 ---
 
@@ -110,7 +110,7 @@ certutil -hashfile C:\Windows\System32\notepad.exe SHA256
 
 Successfully detected certutil execution and triggered the corresponding alert.
 
-![Certutil Detection](screenshots/certutil-detection.png)
+![Certutil Detection](images/certutil-detection.png)
 
 ---
 
@@ -141,7 +141,7 @@ net user
 
 Successfully detected local account enumeration activity and triggered the corresponding alert.
 
-![Account Enumeration Detection](screenshots/account-enumeration-detection.png)
+![Account Enumeration Detection](images/account-enumeration-detection.png)
 
 ---
 
@@ -169,7 +169,7 @@ Generated activity by intentionally entering an incorrect password multiple time
 
 Successfully detected repeated failed authentication attempts and triggered the corresponding alert.
 
-![Failed Logon Detection](screenshots/failed-logon-detection.png)
+![Failed Logon Detection](images/failed-logon-detection.png)
 
 ---
 
@@ -177,7 +177,7 @@ Successfully detected repeated failed authentication attempts and triggered the 
 
 All detections were converted into Splunk alerts and validated using generated activity.
 
-![Alert Configuration Example](screenshots/alert-configuration-example.png)
+![Alert Configuration Example](images/alert-configuration-example.png)
 
 ---
 
