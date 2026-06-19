@@ -28,10 +28,6 @@ Developed and validated custom Splunk detections and alerts using Sysmon and Win
 
 [View Project](./detection-engineering-and-alert-validation)
 
-**Status:** Complete
-
-[View Project](./detection-engineering-and-alert-validation)
-
 ### SOC Dashboard Development
 
 Status: Planned
